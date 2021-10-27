@@ -1,5 +1,5 @@
-<h1>you can open the site in 
-https://awesome-goldwasser-893710.netlify.app/</h1>
+<h2>you can open the site in 
+https://awesome-goldwasser-893710.netlify.app/</h2>
 
 
 # Getting Started with Create React App
